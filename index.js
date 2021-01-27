@@ -9,4 +9,4 @@ function factorial(n){
 // console.log(factorial(3))
 // console.log(factorial(2))
 // console.log(factorial(1))
-factorial(1)
+factorial(13)
